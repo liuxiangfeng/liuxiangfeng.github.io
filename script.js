@@ -147,7 +147,7 @@ function typeWriter(text, i, fnCallback) {
 
 // Start the typewriter effect
 document.addEventListener('DOMContentLoaded', function() {
-    typeWriter("Data Scientist | AI Engineer", 0, function() {
+    typeWriter("Engineering Leader | Engineer", 0, function() {
         // typeWriter function callback
     });
     createProjectCards();
