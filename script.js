@@ -173,12 +173,6 @@ const articles = [
 ];
 
 const latestItems = [
-    {
-        title: "Local Deep Learning Workstation on Ubuntu 22.04 (latest Ubuntu LTS with Cuda support)",
-        description: "Local Deep Learning Workstation on Ubuntu 22.04 (latest Ubuntu LTS with Cuda support)",
-        link: "https://medium.com//local-deep-learning-workstation-on-ubuntu-22-04-latest-ubuntu-lts-with-cuda-support-a1146fbbec9c",
-        type: "Article"
-    }
 ];
 
 function createLatestItems() {
@@ -202,7 +196,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // typeWriter function callback
     });
     createProjectCards();
-    createExperienceSection();
+    // createExperienceSection();
     createMediumArticleCards();
     createLatestItems();
 });
