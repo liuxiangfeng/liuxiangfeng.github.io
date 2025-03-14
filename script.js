@@ -10,26 +10,10 @@ const projects = [
 
 // Professional experience data
 const experience = [
-    {
-        company: "Highspot",
-        role: "Engineering Leader",
-        duration: "Jun 2022 - Present",
-        achievements: [
-            "Leading two engineering teams focus on areas:",
-            "1. Content Creation Platform",
-            "2. Enterprise Search"
-        ]
-    }
 ];
 
 // Medium articles data
 const mediumArticles = [
-    {
-        title: "Local Deep Learning Workstation on Ubuntu 22.04 (latest Ubuntu LTS with Cuda support)",
-        description: "Local Deep Learning Workstation on Ubuntu 22.04 (latest Ubuntu LTS with Cuda support)",
-        link: "https://medium.com//local-deep-learning-workstation-on-ubuntu-22-04-latest-ubuntu-lts-with-cuda-support-a1146fbbec9c",
-        image: ""
-    },
     {
         title: "Local Deep Learning Workstation on Ubuntu 22.04 (latest Ubuntu LTS with Cuda support)",
         description: "Local Deep Learning Workstation on Ubuntu 22.04 (latest Ubuntu LTS with Cuda support)",
